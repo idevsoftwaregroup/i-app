@@ -1,4 +1,4 @@
-# i-app framework v2.0 (since 2018)
+# i-app framework
 
 i-app makes you able to build mobile native apps with HTML, CSS, and JavaScript components.
 
