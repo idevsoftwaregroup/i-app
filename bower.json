@@ -1,7 +1,7 @@
 {
-  "name": "ratchet",
+  "name": "i-app",
   "description": "Build mobile apps with simple HTML, CSS, and JS components.",
-  "version": "2.0.2",
+  "version": "2.0",
   "keywords": [
     "css",
     "js",
@@ -12,8 +12,8 @@
     "prototype"
   ],
   "main": [
-    "./dist/css/ratchet.css",
-    "./dist/js/ratchet.js"
+    "./dist/css/i-app.css",
+    "./dist/js/i-app.js"
   ],
   "ignore": [
     "_config.yml",
