@@ -1,4 +1,8 @@
 # [i-app](http://iapp-framework.ir)
+[![GitHub Release](https://img.shields.io/github/release/twbs/ratchet.svg)](https://github.com/twbs/ratchet/releases)
+[![Build Status](https://img.shields.io/travis/twbs/ratchet/master.svg)](https://travis-ci.org/twbs/ratchet)
+[![devDependency Status](https://img.shields.io/david/dev/twbs/ratchet.svg)](https://david-dm.org/twbs/ratchet#info=devDependencies)
+
 
 i-app makes you able to build mobile native apps with HTML, CSS, and JavaScript components.
 
