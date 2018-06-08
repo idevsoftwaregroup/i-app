@@ -1,4 +1,4 @@
-# i-app framework
+# i-app
 
 i-app makes you able to build mobile native apps with HTML, CSS, and JavaScript components.
 
