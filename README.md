@@ -1,20 +1,18 @@
-# [i-app]
+# [i-app] (http://iapp-framework.ir)
 
 i-app makes you able to build mobile native apps with HTML, CSS, and JavaScript components.
 
-## Directories in Framework
+## Web Structure
 
-- [Getting started](#getting-started)
-- [dist] : for core files like css, js and fonts.
-- [fonts]
-- [grunt]
-- [js]
-- [sass]
+- [Getting started](http://iapp-framework.ir/ia-v2.0/getting-started/)
+- [Components](http://iapp-framework.ir/ia-v2.0/components)
+- [Examples](http://iapp-framework.ir/ia-v2.0/examples)
+- [About](http://iapp-framework.ir/ia-v2.0/about)
 
 ## Getting started
 
 - Clone the repo with `git clone https://github.com/arashataei/i-app.git` or just [<a href="https://github.com/arashataei/i-app/archive/master.zip">download</a>](https://github.com/arashataei/i-app/archive/master.zip) the bundled CSS and JS
-- [Read the docs](http://iapp-framework.ir) to learn about the components and how to get a prototype on your phone
+- [Read the docs](http://iapp-framework.ir/ia-v2.0/getting-started/) to learn about the components and how to get a prototype on your phone
 - [Check out examples](http://iapp-framework.ir/examples/)
 
 Take note that our master branch is our active, unstable development branch and that if you're looking to download a stable copy of the repo, check the [tagged downloads](https://github.com/arashataei/i-app/tags).
