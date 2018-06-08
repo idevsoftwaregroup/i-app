@@ -49,7 +49,7 @@ i-app's documentation is getting ready as soon as possible by Arash Ataei and Fa
 
 ## Support
 
-All events about i-app framework wil be up on Telegram [@iapp_framework](https://t.me/iapp_framework).
+All events about i-app framework wil be up on Telegram [@iapp_framework](https://telegram.me/iapp_framework).
 
 ## Versioning
 
@@ -57,22 +57,25 @@ For transparency into our release cycle and in striving to maintain backward com
 
 Releases will be numbered with the following format:
 
-`<major>.<minor>.<patch>`
+`<major>.<minor>`
 
 And constructed with the following guidelines:
 
-- Breaking backward compatibility **bumps the major** while resetting minor and patch
-- New additions without breaking backward compatibility **bumps the minor** while resetting the patch
-- Bug fixes and misc changes **bumps only the patch**
+- the release after editting major and minor.
 
-For more information on SemVer, please visit <http://semver.org/>.
+
+For more information on Arash Ataei's official website or on his Telegram official account [@arashataei](https://telegram.me/cthunter).
 
 ## Maintainer/s
 
 Arash Ataei
 
 - <https://github.com/arashataei>
+- [@arashataei](https://telegram.me/cthunter)
 
+i-app Telegram Channel
+
+- [@iapp_framework](https://telegram.me/iapp_framework)
 
 Created by Arash Ataei, Fatemeh Darvishi.
 
