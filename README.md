@@ -1,4 +1,4 @@
-# [i-app](http://iapp-framework.ir)  [![GitHub Release](http://iapp-framework.ir/version-status.svg)](https://github.com/twbs/ratchet/releases) [![Build Status](http://iapp-framework.ir/build-status.svg)](http://arashataei.ir)
+# [i-app](http://iapp-framework.ir)  [![GitHub Release](http://iapp-framework.ir/version-status.svg)](https://github.com/arashataei/i-app/releases) [![Build Status](http://iapp-framework.ir/build-status.svg)](http://arashataei.ir)
 
 
 i-app makes you able to build mobile native apps with HTML, CSS, and JavaScript components.
@@ -23,13 +23,13 @@ Take note that our master branch is our active, unstable development branch and 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
-ratchet/
+i-app/
 ├── css/
 │   ├── i-app.css
 │   ├── i-app.min.css
 │   ├── i-app-theme-android.css
-│   └── i-appratchet-theme-android.min.css
-│   ├── i-appratchet-theme-ios.css
+│   └── i-app-theme-android.min.css
+│   ├── i-app-theme-ios.css
 │   └── i-app-theme-ios.min.css
 ├── js/
 │   ├── i-app.js
