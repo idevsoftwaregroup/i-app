@@ -1,4 +1,4 @@
-# [i-app](http://iapp-framework.ir)  [![GitHub Release](http://iapp-framework.ir/version-status.svg)](https://github.com/arashataei/i-app/releases) [![Build Status](http://iapp-framework.ir/build-status.svg)](http://arashataei.ir)
+# [i-Framework](http://iapp-framework.ir)  [![GitHub Release](http://iapp-framework.ir/version-status.svg)](https://github.com/arashataei/i-app/releases) [![Build Status](http://iapp-framework.ir/build-status.svg)](http://arashataei.ir)
 
 
 i-app makes you able to build mobile native apps with HTML, CSS, and JavaScript components.
