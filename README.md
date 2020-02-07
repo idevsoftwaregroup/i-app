@@ -45,7 +45,7 @@ We provide compiled CSS and JS (`i-app.*`), as well as compiled and minified CSS
 
 ## Documentation
 
-i-app's documentation is getting ready as soon as possible by Arash Ataei and Fatemeh Darvishi (http://arashataei.ir)
+i-Framework's documentation is getting ready as soon as possible by Arash Ataei and Fatemeh Darvishi (https://idev-group.ir)
 
 ## Support
 
@@ -64,14 +64,14 @@ And constructed with the following guidelines:
 - the release after editting major and minor.
 
 
-For more information on Arash Ataei's official website or on his Telegram official account [@arashataei](https://telegram.me/cthunter).
+For more information on Arash Ataei's official website or on his Telegram official account [@arashataei](https://telegram.me/i_dev_group).
 
 ## Maintainer/s
 
 Arash Ataei
 
 - <https://github.com/idev-software-group>
-- [@arashataei](https://telegram.me/cthunter)
+- [@arashataei](https://telegram.me/i_dev_group)
 
 FatemehDarvishi
 
@@ -86,4 +86,4 @@ Created by Arash Ataei, Fatemeh Darvishi.
 
 ## License
 
-i-app framework is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+i-Framework is licensed under the [MIT License](http://opensource.org/licenses/MIT).
