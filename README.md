@@ -1,14 +1,17 @@
 # [i-Framework](http://iapp-framework.ir)  [![GitHub Release](http://iapp-framework.ir/version-status.svg)](https://github.com/arashataei/i-app/releases) [![Build Status](http://iapp-framework.ir/build-status.svg)](http://arashataei.ir)
 
 
-i-app makes you able to build mobile native apps with HTML, CSS, and JavaScript components.
+i-Framework makes you able to build mobile native apps with HTML, CSS, and JavaScript components.
+
+## Owner
+[i-dev software group](https://idev-group.ir/)
 
 ## Web Structure
 
-- [Getting started](http://iapp-framework.ir/ia-v2.0/getting-started/)
-- [Components](http://iapp-framework.ir/ia-v2.0/components)
-- [Examples](http://iapp-framework.ir/ia-v2.0/examples)
-- [About](http://iapp-framework.ir/ia-v2.0/about)
+- [Getting started](http://iapp-framework.ir/ia-v2.1/getting-started/)
+- [Components](http://iapp-framework.ir/ia-v2.1/components)
+- [Examples](http://iapp-framework.ir/ia-v2.1/examples)
+- [About](http://iapp-framework.ir/ia-v2.1/about)
 
 ## Getting started
 
