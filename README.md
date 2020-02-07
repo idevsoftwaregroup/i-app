@@ -70,7 +70,7 @@ For more information on Arash Ataei's official website or on his Telegram offici
 
 Arash Ataei
 
-- <https://github.com/idev-group-software>
+- <https://github.com/idev-software-group>
 - [@arashataei](https://telegram.me/cthunter)
 
 FatemehDarvishi
